@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-decomposition/static/css/main.65356ce0.css",
+    "main.js": "/ra-decomposition/static/js/main.36f29124.js",
+    "index.html": "/ra-decomposition/index.html",
+    "main.65356ce0.css.map": "/ra-decomposition/static/css/main.65356ce0.css.map",
+    "main.36f29124.js.map": "/ra-decomposition/static/js/main.36f29124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65356ce0.css",
+    "static/js/main.36f29124.js"
+  ]
+}
